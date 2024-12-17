@@ -48,6 +48,19 @@ $apps = @(
     "Microsoft.YourPhone"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
+    # additional Windows 11 apps
+    "Microsoft.BingSearch"
+    "Microsoft.GamingApp"
+    "Microsoft.OutlookForWindows"
+    "Clipchamp.Clipchamp"
+    "MSTeams"
+    "Microsoft.MicrosoftEdge.Stable"
+    "Microsoft.MicrosoftEdgeDevToolsClient"
+    "Microsoft.XboxIdentityProvider"
+    "Microsoft.XboxGameGallableUI"
+    "MicrosoftCoporationII.QuickAssist"
+    "Microsoft.WindowsFeedback"
+    "Microsoft.Windows.Cortana"
 
     # Threshold 2 apps
     "Microsoft.CommsPhone"
@@ -105,7 +118,7 @@ $apps = @(
     "ShazamEntertainmentLtd.Shazam"
     "SlingTVLLC.SlingTV"
     "SpotifyAB.SpotifyMusic"
-    #"TheNewYorkTimes.NYTCrossword"
+    "TheNewYorkTimes.NYTCrossword"
     "ThumbmunkeysLtd.PhototasticCollage"
     "TuneIn.TuneInRadio"
     "WinZipComputing.WinZipUniversal"

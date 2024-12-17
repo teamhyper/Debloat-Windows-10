@@ -33,7 +33,7 @@ $domains = @(
     "a1621.g.akamai.net"
     "a1856.g2.akamai.net"
     "a1961.g.akamai.net"
-    #"a248.e.akamai.net"            # makes iTunes download button disappear (#43)
+    "a248.e.akamai.net"
     "a978.i6g1.akamai.net"
     "a.ads1.msn.com"
     "a.ads2.msads.net"
@@ -215,7 +215,7 @@ $ips = @(
     "204.79.197.200"
     "23.218.212.69"
     "65.39.117.230"
-    "65.52.108.33"   # Causes problems with Microsoft Store
+    #"65.52.108.33"   # Causes problems with Microsoft Store
     "65.55.108.23"
     "64.4.54.254"
 
