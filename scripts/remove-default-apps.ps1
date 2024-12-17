@@ -57,7 +57,7 @@ $apps = @(
     "Microsoft.MicrosoftEdge.Stable"
     "Microsoft.MicrosoftEdgeDevToolsClient"
     "Microsoft.XboxIdentityProvider"
-    "Microsoft.XboxGameGallableUI"
+    "Microsoft.XboxGameCallableUI"
     "MicrosoftCoporationII.QuickAssist"
     "Microsoft.WindowsFeedback"
     "Microsoft.Windows.Cortana"
